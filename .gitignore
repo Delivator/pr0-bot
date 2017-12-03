@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# Windows desktop.ini
+desktop.ini
+
+# Ignore config/settings.json
+config/settings.json
+
+# VSCode folder
+.vscode/

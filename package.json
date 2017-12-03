@@ -1,0 +1,27 @@
+{
+  "name": "pr0-bot",
+  "version": "0.0.1",
+  "description": "pr0gramm bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "prepublish": "node setup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delivator/pr0-bot.git"
+  },
+  "author": "Delivator.me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delivator/pr0-bot/issues"
+  },
+  "homepage": "https://github.com/Delivator/pr0-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "got": "^8.0.1",
+    "inquirer": "^4.0.1",
+    "moment": "^2.19.3"
+  }
+}
