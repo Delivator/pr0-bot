@@ -1,6 +1,6 @@
 {
   "name": "pr0-bot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "pr0gramm bot for discord",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/Delivator/pr0-bot#readme",
   "dependencies": {
-    "discord.js": "^11.2.1",
-    "got": "^8.0.1",
-    "inquirer": "^4.0.1",
-    "moment": "^2.19.3"
+    "discord.js": "^11.3.2",
+    "got": "^8.3.2",
+    "inquirer": "^4.0.2",
+    "moment": "^2.22.2"
   }
 }
